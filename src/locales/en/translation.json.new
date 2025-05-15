@@ -1,0 +1,470 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "openMenu": "Open Menu"
+  },
+  "common": {
+    "directContact": "Contact Now",
+    "siteTitle": "Marketing bel arabi"
+  },
+  "home": {
+    "hero": {
+      "tag": "Marketing & Technology",
+      "title": "All Marketing and Digital Marketing Services in One Place",
+      "description": "We help you reach your customers, build your brand, and increase your sales through precise digital marketing strategies, search engine optimization, social media management, professional website development, and addressing sales issues.",
+      "startBtn": "Get Started",
+      "exploreBtn": "Explore Our Services"
+    },
+    "services": {
+      "title": "Our Services",
+      "service1": {
+        "title": "Digital Marketing",
+        "description": "Ad campaign management, social media marketing, email marketing, content writing."
+      },
+      "service2": {
+        "title": "Design & Visual Identity",
+        "description": "Logo design, visual identity, and design of marketing materials."
+      },
+      "service3": {
+        "title": "Website & App Development",
+        "description": "Website development, mobile applications."
+      },
+      "service4": {
+        "title": "Marketing Consultations & Studies",
+        "description": "Preparing marketing studies and strategic planning."
+      },
+      "service5": {
+        "title": "Sales Management",
+        "description": "Improving sales processes and distribution points, sales planning, sales team training."
+      },
+      "service6": {
+        "title": "Visual Production",
+        "description": "Photography, video production and editing."
+      },
+      "service7": {
+        "title": "Content Creation",
+        "description": "Creating engaging and valuable content that resonates with your audience and establishes your brand authority."
+      },
+      "learnMore": "Learn More"
+    },
+    "about": {
+      "title": "About Marketing bel arabi",
+      "intro": "We are a leading digital marketing agency dedicated to helping businesses grow their online presence and achieve their marketing goals.",
+      "text": "Marketing bel arabi was founded with a vision to change how businesses communicate with their audience in the digital world, and has grown from a small team of passionate marketers to a comprehensive digital agency. Our journey has been marked by continuous innovation, client success stories, and a commitment to excellence that drives everything we do.",
+      "button": "Read More",
+      "stats": {
+        "title": "Our Achievements",
+        "clients": "Satisfied Clients",
+        "projects": "Completed Projects",
+        "years": "Years of Experience",
+        "team": "Team Members"
+      }
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "intro": "What our clients say about us",
+      "testimonial1": {
+        "name": "Ahmed Hassan",
+        "position": "Marketing Manager, Tech Solutions",
+        "text": "Marketing bel arabi helped us significantly improve our digital presence, leading to a noticeable increase in sales.",
+        "rating": 5
+      },
+      "testimonial2": {
+        "name": "Sara Ahmed",
+        "position": "CEO, Fashion Brand",
+        "text": "Great experience with the Marketing bel arabi team, they were able to understand our needs and translate them into a successful marketing strategy.",
+        "rating": 5
+      },
+      "testimonial3": {
+        "name": "Mohammed Ali",
+        "position": "Founder, Startup",
+        "text": "Professional team with high expertise. They helped us build our brand from scratch and achieve remarkable results in a short time.",
+        "rating": 5
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "intro": "Get to know Marketing bel arabi team",
+      "text": "Marketing bel arabi started as a passionate volunteer team, driven by a genuine desire to transform marketing concepts in the Arab market, presenting them in an accessible Arabic language close to people. We believe in supporting and empowering youth, and we strive to provide professional marketing services based on knowledge, productivity, teamwork, along with our commitment to social responsibility.",
+      "button": "Meet Our Team"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Marketing bel arabi",
+      "description": "We are a leading digital marketing agency dedicated to helping businesses grow their online presence and achieve their marketing goals."
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Founded with a vision to transform how businesses connect with their audience in the digital world, Marketing bel arabi has grown from a small team of passionate marketers to a comprehensive digital agency. Our journey has been marked by continuous innovation, client success stories, and a commitment to excellence that drives everything we do.",
+      "button": "Learn More"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "Our mission is to empower businesses with effective digital marketing strategies that drive growth and success. We are committed to delivering exceptional results through innovative solutions, data-driven insights, and a deep understanding of our clients' needs."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "We aspire to be the leading digital marketing agency in the Arab world, known for our creativity, innovation, and ability to deliver tangible results for our clients. We envision a future where every business, regardless of size, can harness the power of digital marketing to achieve their goals."
+    },
+    "values": {
+      "title": "Our Values",
+      "value1": {
+        "title": "Excellence",
+        "description": "We strive for excellence in everything we do, from the strategies we develop to the results we deliver."
+      },
+      "value2": {
+        "title": "Innovation",
+        "description": "We embrace innovation and continuously seek new ways to help our clients stand out in a competitive digital landscape."
+      },
+      "value3": {
+        "title": "Integrity",
+        "description": "We operate with integrity and transparency, building trust with our clients through honest communication and ethical practices."
+      },
+      "value4": {
+        "title": "Collaboration",
+        "description": "We believe in the power of collaboration, working closely with our clients to understand their needs and deliver tailored solutions."
+      },
+      "value5": {
+        "title": "Results-Driven",
+        "description": "We are focused on delivering measurable results that contribute to our clients' business success."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "intro": "Our team consists of passionate professionals with diverse skills and expertise in digital marketing, design, development, and content creation.",
+      "member1": {
+        "name": "Ahmed Hassan",
+        "position": "Founder & CEO",
+        "bio": "With over 10 years of experience in digital marketing, Ahmed leads our team with a vision to transform how businesses connect with their audience in the digital world."
+      },
+      "member2": {
+        "name": "Sara Ahmed",
+        "position": "Marketing Director",
+        "bio": "Sara oversees all marketing strategies and campaigns, ensuring they align with our clients' goals and deliver exceptional results."
+      },
+      "member3": {
+        "name": "Mohammed Ali",
+        "position": "Creative Director",
+        "bio": "Mohammed brings creativity and innovation to every project, leading our design team to create visually stunning and effective marketing materials."
+      },
+      "member4": {
+        "name": "Layla Ibrahim",
+        "position": "Content Manager",
+        "bio": "Layla is responsible for developing and implementing content strategies that engage audiences and drive conversions."
+      },
+      "member5": {
+        "name": "Omar Khalid",
+        "position": "Technical Director",
+        "bio": "Omar leads our development team, ensuring that our technical solutions are innovative, efficient, and aligned with our clients' needs."
+      }
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Our Portfolio",
+      "description": "At 'Marketing bel arabi', we translate our clients' ideas into tangible results. We have implemented successful projects in digital marketing, design, website development, and creative content, which have contributed to the growth and spread of many brands."
+    },
+    "categories": {
+      "all": "All",
+      "digitalMarketing": "Digital Marketing",
+      "design": "Design",
+      "webDevelopment": "Web Development",
+      "contentCreation": "Content Creation"
+    },
+    "project1": {
+      "title": "E-commerce Website Redesign",
+      "category": "Web Development",
+      "description": "Redesigned an e-commerce website to improve user experience and increase conversions.",
+      "results": "50% increase in conversion rate, 30% increase in average order value."
+    },
+    "project2": {
+      "title": "Social Media Campaign",
+      "category": "Digital Marketing",
+      "description": "Developed and executed a comprehensive social media campaign to increase brand awareness and engagement.",
+      "results": "200% increase in engagement, 100% increase in followers, 50% increase in website traffic from social media."
+    },
+    "project3": {
+      "title": "Brand Identity Design",
+      "category": "Design",
+      "description": "Created a new brand identity, including logo, color palette, typography, and brand guidelines.",
+      "results": "Increased brand recognition and consistency across all marketing materials."
+    },
+    "project4": {
+      "title": "Content Marketing Strategy",
+      "category": "Content Creation",
+      "description": "Developed and implemented a content marketing strategy to establish thought leadership and drive organic traffic.",
+      "results": "100% increase in organic traffic, 50% increase in lead generation from content."
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Comprehensive Digital Marketing Services for Your Business Growth",
+      "description": "At 'Marketing bel arabi', we offer a comprehensive package of digital marketing services tailored to your needs, from managing advertising campaigns and social media, to designing visual identity and developing websites and applications. We also work on preparing professional marketing studies, improving sales processes, and implementing professional visual production to help you deliver your message effectively and attractively."
+    },
+    "service1": {
+      "title": "Digital Marketing",
+      "description": "Ad campaign management, social media marketing, email marketing, content writing.",
+      "fullDescription": "We help you reach your target audience and achieve your marketing goals through effective digital marketing strategies. Our services include social media management, search engine optimization, email marketing, and more.",
+      "features": {
+        "feature1": "Social Media Management",
+        "feature2": "Search Engine Optimization (SEO)",
+        "feature3": "Email Marketing",
+        "feature4": "Content Marketing",
+        "feature5": "Pay-Per-Click Advertising (PPC)",
+        "feature6": "Analytics and Reporting"
+      }
+    },
+    "service2": {
+      "title": "Design & Visual Identity",
+      "description": "Logo design, visual identity, and design of marketing materials.",
+      "fullDescription": "We help you build a strong and distinctive visual identity that reflects your brand values and attracts your target audience. We provide professional design services that combine creativity and strategy.",
+      "features": {
+        "feature1": "Logo Design",
+        "feature2": "Brand Identity",
+        "feature3": "Marketing Materials Design",
+        "feature4": "Social Media Graphics",
+        "feature5": "Packaging Design",
+        "feature6": "Print Design"
+      }
+    },
+    "service3": {
+      "title": "Website & App Development",
+      "description": "Website development, mobile applications.",
+      "fullDescription": "We provide high-quality website and mobile app development services that combine attractive design, ease of use, and excellent performance. We use the latest technologies to create digital platforms that meet your business needs.",
+      "features": {
+        "feature1": "Website Design and Development",
+        "feature2": "E-commerce Development",
+        "feature3": "Mobile App Development",
+        "feature4": "Website Maintenance and Support",
+        "feature5": "Website Optimization",
+        "feature6": "Content Management Systems (CMS)"
+      }
+    },
+    "service4": {
+      "title": "Marketing Consultations & Studies",
+      "description": "Preparing marketing studies and strategic planning.",
+      "fullDescription": "We provide specialized marketing consultations and comprehensive market studies that help you make informed decisions and develop effective strategies for your business growth. We rely on data and analytics to provide actionable recommendations.",
+      "features": {
+        "feature1": "Market Research",
+        "feature2": "Competitor Analysis",
+        "feature3": "Marketing Strategy Development",
+        "feature4": "Brand Positioning",
+        "feature5": "Marketing Audits",
+        "feature6": "Marketing Performance Analysis"
+      }
+    },
+    "service5": {
+      "title": "Sales Management",
+      "description": "Improving sales processes, sales team training.",
+      "fullDescription": "We help you improve your sales processes and increase your conversion rates through effective sales strategies and team training. We focus on creating a seamless customer journey that maximizes sales opportunities.",
+      "features": {
+        "feature1": "Sales Process Optimization",
+        "feature2": "Sales Team Training",
+        "feature3": "Sales Strategy Development",
+        "feature4": "Customer Journey Mapping",
+        "feature5": "CRM Implementation",
+        "feature6": "Sales Performance Analysis"
+      }
+    },
+    "service6": {
+      "title": "Visual Production",
+      "description": "Photography, video production and editing.",
+      "fullDescription": "We provide professional visual production services that help you deliver your message effectively and attractively. From photography to video production, we ensure high-quality visual content that reflects your brand identity.",
+      "features": {
+        "feature1": "Professional Photography",
+        "feature2": "Video Production",
+        "feature3": "Motion Graphics",
+        "feature4": "Product Photography",
+        "feature5": "Corporate Videos",
+        "feature6": "Social Media Videos"
+      }
+    },
+    "service7": {
+      "title": "Content Creation",
+      "description": "Creating engaging and valuable content.",
+      "fullDescription": "We create engaging and valuable content that resonates with your audience and establishes your brand authority. Our content strategies are designed to attract, engage, and convert your target audience.",
+      "features": {
+        "feature1": "Blog Writing",
+        "feature2": "Social Media Content",
+        "feature3": "Website Copy",
+        "feature4": "Email Newsletters",
+        "feature5": "Whitepapers and E-books",
+        "feature6": "Case Studies"
+      }
+    },
+    "process": {
+      "title": "Our Work Process",
+      "description": "We follow a structured approach to ensure the success of your marketing projects."
+    },
+    "packages": {
+      "title": "Our Packages",
+      "description": "At 'Marketing bel arabi', we offer a range of flexible packages designed to suit different business needs, whether you're a startup looking for a launch or an established organization seeking expansion.",
+      "launch": {
+        "title": "Launch Package",
+        "subtitle": "Perfect for startups and small businesses",
+        "feature1": "Basic social media management",
+        "feature2": "Simple website design",
+        "feature3": "Basic SEO setup",
+        "feature4": "Monthly performance report",
+        "feature5": "Email marketing setup",
+        "goal": "Ideal for establishing your online presence",
+        "button": "Get Started"
+      },
+      "growth": {
+        "title": "Growth Package",
+        "subtitle": "For businesses looking to expand",
+        "feature1": "Comprehensive social media management",
+        "feature2": "Advanced website design and development",
+        "feature3": "Ongoing SEO optimization",
+        "feature4": "Content marketing strategy",
+        "feature5": "Email marketing campaigns",
+        "feature6": "Bi-weekly performance reports",
+        "feature7": "Monthly strategy consultation",
+        "goal": "Perfect for growing your online presence and increasing conversions",
+        "button": "Accelerate Growth"
+      },
+      "elite": {
+        "title": "Elite Package",
+        "subtitle": "For established businesses seeking dominance",
+        "feature1": "Premium social media management",
+        "feature2": "Custom website design and development",
+        "feature3": "Advanced SEO and SEM strategies",
+        "feature4": "Comprehensive content marketing",
+        "feature5": "Automated email marketing sequences",
+        "feature6": "Weekly performance reports",
+        "feature7": "Weekly strategy consultations",
+        "feature8": "Conversion rate optimization",
+        "feature9": "Competitor analysis and monitoring",
+        "goal": "Designed to establish market leadership and maximize ROI",
+        "button": "Dominate Market",
+        "custom": "Custom Package"
+      }
+    },
+    "cta": {
+      "title": "Contact Us Today",
+      "description": "Let's be partners in your success.",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "description": "We're here to answer your questions and help you achieve your marketing goals. Get in touch today to start your success journey."
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "button": "Send Message",
+      "success": "Your message has been sent successfully! We'll get back to you soon.",
+      "error": {
+        "name": "Name is required",
+        "email": "Please enter a valid email address",
+        "subject": "Subject is required",
+        "message": "Message is required"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "text": "Don't hesitate to contact us. We're always ready to help with any inquiries or projects.",
+      "location": {
+        "label": "Our Location",
+        "value": "Damascus, Syria"
+      },
+      "phone": {
+        "label": "Call Us",
+        "value": "+963 912 345 678"
+      },
+      "email": {
+        "label": "Email Us",
+        "value": "info@mb3arbia.com"
+      },
+      "hours": {
+        "label": "Working Hours",
+        "value": "Sunday - Thursday: 9:00 AM - 5:00 PM"
+      }
+    },
+    "map": {
+      "title": "Our Location on Map"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "text": "Marketing bel arabi is an integrated marketing agency that helps businesses grow and achieve their goals by providing professional marketing services that meet the needs of the Arab market.",
+      "readMore": "Read More"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "blog": "Blog",
+      "contact": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "digitalMarketing": "Digital Marketing",
+      "design": "Design & Visual Identity",
+      "webDevelopment": "Website & App Development",
+      "marketingStudies": "Marketing Consultations & Studies",
+      "salesManagement": "Sales Management",
+      "visualProduction": "Visual Production",
+      "contentCreation": "Content Creation"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "Damascus, Syria",
+      "phone": "+963 912 345 678",
+      "email": "info@mb3arbia.com"
+    },
+    "copyright": " 2025 Marketing bel arabi. All rights reserved.",
+    "socialMedia": "Follow Us"
+  },
+  "blog": {
+    "hero": {
+      "title": "Our Blog",
+      "description": "Stay updated with the latest insights and trends in digital marketing."
+    },
+    "categories": {
+      "all": "All",
+      "digitalMarketing": "Digital Marketing",
+      "design": "Design",
+      "webDevelopment": "Web Development",
+      "contentCreation": "Content Creation",
+      "socialMedia": "Social Media",
+      "seo": "SEO"
+    },
+    "readMore": "Read More",
+    "relatedPosts": "Related Posts",
+    "comments": "Comments",
+    "leaveComment": "Leave a Comment",
+    "name": "Name",
+    "email": "Email",
+    "comment": "Comment",
+    "submit": "Submit",
+    "search": "Search",
+    "recentPosts": "Recent Posts",
+    "popularTags": "Popular Tags"
+  },
+  "error": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "button": "Back to Home"
+  },
+  "workProcess": {
+    "step1": { "title": "Analysis", "description": "Understanding your goals and analyzing your business reality" },
+    "step2": { "title": "Planning", "description": "Developing an integrated work strategy" },
+    "step3": { "title": "Implementation", "description": "Working to achieve the set objectives" },
+    "step4": { "title": "Measurement", "description": "Analyzing results and improving performance" }
+  }
+}
